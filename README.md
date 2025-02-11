@@ -38,7 +38,7 @@ System.out.println("Área del rectángulo: " + calcularArea("rectangulo", 4, 8))
 **Ejemplo de uso:**
 
 ```java
-long resultado = convertirAMilisegundos(1, 2, 30, 45); // 1 día, 2 horas, 30 min, 45 seg
+long resultado = convertirAMilisegundos(1, 2, 3, 4); // 1 día, 2 horas, 3 min, 4 seg
 System.out.println("Tiempo en milisegundos: " + resultado);
 ```
 
